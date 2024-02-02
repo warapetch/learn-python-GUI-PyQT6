@@ -5,6 +5,8 @@
 
 # Folder
 env
+tmp
+temp
 zip
 __pycache__
 .history
