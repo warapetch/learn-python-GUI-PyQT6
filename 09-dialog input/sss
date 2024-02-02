@@ -1,0 +1,2 @@
+        buttons.button(QDialogButtonBox.StandardButton.Ok).setText("ตกลง")
+        buttons.button(QDialogButtonBox.StandardButton.Cancel).setText("ยกเลิก")

@@ -1,0 +1,30 @@
+QMainWindow { 
+    background-color: #fff; 
+    }
+QLabel {
+    color: black;
+    background-color: #CFA8F8;
+    font-size: 18px;
+    margin-bottom: 10px;
+    }            
+QPushButton:hover {
+    background-color: #0b5ed7;
+    border: 3px solid #9ac3fe;
+    }
+QPushButton {
+    background-color: #C8CACD;
+    color: black;
+    }         
+QPushButton#ok {
+    background-color: green;
+    color: black;
+    }         
+QPushButton#cancel {
+    background-color: red;
+    color: black;
+    }         
+QCheckBox {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 10px;
+    }
