@@ -48,7 +48,7 @@ https://www.anaconda.com/download
 🔷 วิดีโอ
 📌 สอนเขียนโปรแกรมด้วยไพธอน GUI ใช้ PYQT6 10 ตอนจบ ประมาณ 8 ชั่วโมง<br>
 
-[![cover](http://img.youtube.com/vi/j34CTwNw4No/0.jpg)]([https://www.youtube.com/watch?v=j34CTwNw4No&list=PLyo_YyuVQpeUwCECO3d5e_J5CWtk9_cUX] "Click to Play Video")
+[![cover](http://img.youtube.com/vi/j34CTwNw4No/0.jpg)](https://www.youtube.com/watch?v=j34CTwNw4No&list=PLyo_YyuVQpeUwCECO3d5e_J5CWtk9_cUX "Click to Play Video")
 
 
 🔷 FaceBook  \
